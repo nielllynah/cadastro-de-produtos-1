@@ -23,3 +23,10 @@ npm install react
 
 </html>
 ```
+
+## Utilidades do arquivo README.md
+*Descrição do seu projeto
+*Funcionalidades
+*Como os usuários devem usar
+*Onde os usuarios podem encontrar ajuda sobre o projeto
+*Autores do projeto
