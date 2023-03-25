@@ -31,7 +31,7 @@ npm install react
 * Onde os usuarios podem encontrar ajuda sobre o projeto
 * Autores do projeto
 
-Para excutar o arquivo app.js
+Para excutar o arquivo "app.js" para ultilizar o Node.js
 
 ```
 npm install react
