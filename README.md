@@ -30,3 +30,7 @@ npm install react
 * Como os usuários devem usar
 * Onde os usuarios podem encontrar ajuda sobre o projeto
 * Autores do projeto
+
+'''
+npm install react
+'''
